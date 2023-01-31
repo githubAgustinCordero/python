@@ -1,23 +1,9 @@
-Master
-#This document helps to understand python in detail.And tells you More Information
-=======
-#This document helps to understand python in details.
 master
-# My Python Examples for everyone 
+# Python Examples for everyone 
 =======
 
 master
-# My Python Egs :snake: :smile:
 <hr>
-I do not consider myself as a programmer. I create these little programs as experiments to play with Python, or to solve problems for myself. I would gladly accept pointers from others to improve, simplify, or make the code more efficient. If you would like to make any comments then please feel free to email me:
-master
-
-# My Best Python Examples for education 
-master
-
-
-:email: craig@geekcomputers.co.uk.
-
 master
 This script contain important functions which help reduce human workload.
 Code documentation is aligned correctly when the files are viewed in [Notepad++](https://notepad-plus-plus.org/). :spiral_notepad:
